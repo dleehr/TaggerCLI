@@ -1,0 +1,502 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 3775B9D50EB54E9B00D79248 /* TaggerCLI */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* TaggerCLI */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* TaggerCLI */,
+		);
+		breakpoints = (
+			37A28C130EBD06430073B885 /* TaggerCLI.m:474 */,
+			37517A2E0EBE10900080376A /* TaggerCLI.m:296 */,
+			37FE8A1B0EBE110500BFFCEF /* TaggerCLI.m:275 */,
+			37FE8A1D0EBE111100BFFCEF /* TaggerCLI.m:570 */,
+			37FE8A640EBE13EF00BFFCEF /* TaggerCLI.m:390 */,
+			37FE8A7C0EBE151B00BFFCEF /* TaggerCLI.m:383 */,
+			37FE8A8E0EBE16BB00BFFCEF /* TaggerCLI.m:414 */,
+			37FE8A920EBE16EE00BFFCEF /* TaggerCLI.m:570 */,
+			37FE8AAD0EBE192C00BFFCEF /* TaggerCLI.m:530 */,
+			37FE8B4A0EBE2D9600BFFCEF /* TaggerCLI.m:423 */,
+			37FE8B5E0EBE2FA800BFFCEF /* TaggerCLI.m:451 */,
+			37FE8B610EBE302500BFFCEF /* TaggerCLI.m:596 */,
+			37FE8B640EBE308600BFFCEF /* TaggerCLI.m:583 */,
+			37FE8B8E0EBE3A3000BFFCEF /* TaggerCLI.m:519 */,
+		);
+		codeSenseManager = 3775B9E00EB54EB600D79248 /* Code sense */;
+		executables = (
+			3775B9D50EB54E9B00D79248 /* TaggerCLI */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					476,
+					78.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					558,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304569194;
+			PBXWorkspaceStateSaveDate = 304569194;
+		};
+		perUserProjectItems = {
+			370EC557103CED380041CCB7 /* PBXTextBookmark */ = 370EC557103CED380041CCB7 /* PBXTextBookmark */;
+			373EDEC71017F1C70009400A /* PBXTextBookmark */ = 373EDEC71017F1C70009400A /* PBXTextBookmark */;
+			373EDEC81017F1C70009400A /* PBXTextBookmark */ = 373EDEC81017F1C70009400A /* PBXTextBookmark */;
+			373EDEC91017F1C70009400A /* PBXTextBookmark */ = 373EDEC91017F1C70009400A /* PBXTextBookmark */;
+			373EDECA1017F1C70009400A /* PBXTextBookmark */ = 373EDECA1017F1C70009400A /* PBXTextBookmark */;
+			37F865EA122761190052DAB6 /* PBXTextBookmark */ = 37F865EA122761190052DAB6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3775B9DF0EB54EB600D79248 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* TaggerCLI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 7995}}";
+			sepNavSelRange = "{14255, 0}";
+			sepNavVisRange = "{14769, 993}";
+			sepNavWindowFrame = "{{320, 3}, {966, 875}}";
+		};
+	};
+	370EC557103CED380041CCB7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		name = "TaggerCLI.m: 439";
+		rLen = 0;
+		rLoc = 14459;
+		rType = 0;
+		vrLen = 1120;
+		vrLoc = 13702;
+	};
+	373EDEC71017F1C70009400A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3789210B0EBAB18700E017A1 /* Series.h */;
+		name = "Series.h: 16";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	373EDEC81017F1C70009400A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3775BA3B0EB563BE00D79248 /* Run.m */;
+		name = "Run.m: 29";
+		rLen = 0;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 0;
+	};
+	373EDEC91017F1C70009400A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 37A28C3E0EBD09370073B885 /* Episode.h */;
+		name = "Episode.h: 23";
+		rLen = 0;
+		rLoc = 444;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+	373EDECA1017F1C70009400A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 37A28C3F0EBD09370073B885 /* Episode.m */;
+		name = "Episode.m: 27";
+		rLen = 0;
+		rLoc = 482;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	37517A2E0EBE10900080376A /* TaggerCLI.m:296 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "addEpisode()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 296;
+		location = TaggerCLI;
+		modificationTime = 247346866.826616;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	3775B9D50EB54E9B00D79248 /* TaggerCLI */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TaggerCLI;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3775B9DF0EB54EB600D79248 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = Local;
+			repositoryNamesForRoots = {
+				"" = "SVN on Dropbox";
+			};
+		};
+	};
+	3775B9E00EB54EB600D79248 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3775BA3A0EB563BE00D79248 /* Run.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {638, 745}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{0, 285}";
+			sepNavWindowFrame = "{{140, 5}, {697, 873}}";
+		};
+	};
+	3775BA3B0EB563BE00D79248 /* Run.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 700}}";
+			sepNavSelRange = "{492, 0}";
+			sepNavVisRange = "{0, 537}";
+			sepNavWindowFrame = "{{647, 5}, {697, 873}}";
+		};
+	};
+	3789210B0EBAB18700E017A1 /* Series.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 266}}";
+			sepNavSelRange = "{249, 0}";
+			sepNavVisRange = "{0, 310}";
+			sepNavWindowFrame = "{{728, 7}, {690, 871}}";
+		};
+	};
+	3789210C0EBAB18700E017A1 /* Series.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {631, 743}}";
+			sepNavSelRange = "{178, 300}";
+			sepNavVisRange = "{0, 843}";
+			sepNavWindowFrame = "{{103, 7}, {690, 871}}";
+		};
+	};
+	37A28C130EBD06430073B885 /* TaggerCLI.m:474 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 474;
+		location = TaggerCLI;
+		modificationTime = 247346866.826441;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37A28C3E0EBD09370073B885 /* Episode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 574}}";
+			sepNavSelRange = "{444, 0}";
+			sepNavVisRange = "{0, 607}";
+			sepNavWindowFrame = "{{758, 7}, {690, 871}}";
+		};
+	};
+	37A28C3F0EBD09370073B885 /* Episode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 1470}}";
+			sepNavSelRange = "{482, 0}";
+			sepNavVisRange = "{0, 533}";
+			sepNavWindowFrame = "{{145, 0}, {1041, 878}}";
+		};
+	};
+	37F865EA122761190052DAB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		name = "TaggerCLI.m: 432";
+		rLen = 0;
+		rLoc = 14255;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 14769;
+	};
+	37FE8A1B0EBE110500BFFCEF /* TaggerCLI.m:275 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "addEpisode()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 275;
+		location = TaggerCLI;
+		modificationTime = 247346866.826784;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37FE8A1D0EBE111100BFFCEF /* TaggerCLI.m:570 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 570;
+		location = TaggerCLI;
+		modificationTime = 247346866.8269629;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37FE8A640EBE13EF00BFFCEF /* TaggerCLI.m:390 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "parseEpisodeChildren()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 390;
+		location = TaggerCLI;
+		modificationTime = 247346866.827133;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37FE8A7C0EBE151B00BFFCEF /* TaggerCLI.m:383 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "parseEpisodeChildren()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 383;
+		location = TaggerCLI;
+		modificationTime = 247346866.827301;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37FE8A8E0EBE16BB00BFFCEF /* TaggerCLI.m:414 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "doSomethingWithNode()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 414;
+		location = TaggerCLI;
+		modificationTime = 247346866.827469;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37FE8A920EBE16EE00BFFCEF /* TaggerCLI.m:570 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 570;
+		location = TaggerCLI;
+		modificationTime = 247346866.82765;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37FE8AAD0EBE192C00BFFCEF /* TaggerCLI.m:530 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 530;
+		location = TaggerCLI;
+		modificationTime = 247346866.827819;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	37FE8B4A0EBE2D9600BFFCEF /* TaggerCLI.m:423 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "tagFile()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 423;
+		location = TaggerCLI;
+		modificationTime = 247346872.291702;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	37FE8B5E0EBE2FA800BFFCEF /* TaggerCLI.m:451 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "tagFile()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 451;
+		location = TaggerCLI;
+		modificationTime = 247346873.293689;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	37FE8B610EBE302500BFFCEF /* TaggerCLI.m:596 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 596;
+		location = TaggerCLI;
+		modificationTime = 247346871.298054;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	37FE8B640EBE308600BFFCEF /* TaggerCLI.m:583 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 583;
+		location = TaggerCLI;
+		modificationTime = 247346868.593039;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	37FE8B8E0EBE3A3000BFFCEF /* TaggerCLI.m:519 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* TaggerCLI.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 519;
+		modificationTime = 247347760.952733;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	8DD76F960486AA7600D96B5E /* TaggerCLI */ = {
+		activeExec = 0;
+		executables = (
+			3775B9D50EB54E9B00D79248 /* TaggerCLI */,
+		);
+	};
+}
